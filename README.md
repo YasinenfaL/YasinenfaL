@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Enfal Yasin</h1>
-<h3 align="center">Jr. Data Analyst At Ozan SuperApp </h3>
+<h3 align="center">Jr. Data Analyst at Ozan SuperApp </h3>
 
 - 🌱 I’m currently learning **Data Science & Machine Learning**
 
