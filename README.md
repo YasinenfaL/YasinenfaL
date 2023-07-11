@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Enfal Yasin</h1>
-<h3 align="center"> Data Scientist</h3>
+<h3 align="center"> Data Analyst / Data Scientist </h3>
 
 - 🌱 I’m currently learning **Data Science & Machine Learning / MLOps**
 
