@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Enfal Yasin</h1>
-<h3 align="center">Data Analyst at Arena | Data Scientist</h3>
+<h3 align="center">Data Analyst | Data Scientist</h3>
 
 - 📫 How to reach me **enfal.100@hotmail.com**
 
